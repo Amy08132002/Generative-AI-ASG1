@@ -1,4 +1,4 @@
- Exploring Generative AI in Accounting and Finance
+## Exploring Generative AI in Accounting and Finance
 
 My name is Ruoxuan Huang. I completed my undergraduate degree in Financial Accounting Management at the University of Nottingham Ningbo China, where I developed a solid foundation in financial reporting, auditing, and management accounting. I am currently a master's student at Johns Hopkins University, continuing to deepen my expertise at the intersection of business and technology. Outside of academics, I am known for my outgoing and energetic personality, which drives me to connect with people and approach problems with enthusiasm and creativity.
 
@@ -12,4 +12,4 @@ The accounting industry is experiencing a significant shift as artificial intell
 
 ---
 
-*Prompt used: "Create a file called assistant_draft.md with a title, a paragraph introducing Ruoxuan Huang (Financial Accounting Management graduate from University of Nottingham Ningbo China, current master's student at Johns Hopkins University, outgoing and energetic personality), a paragraph ab
+*Prompt used: "Create a file called assistant_draft.md with a title, a paragraph introducing Ruoxuan Huang (Financial Accounting Management graduate from University of Nottingham Ningbo China, current master's student at Johns Hopkins University, outgoing and energetic personality), a paragraph about AI in the accounting industry, and a bullet list of 3 ways generative AI might be useful in that area."* *What the assistant did well: The assistant produced a well-structured draft that covered all required sections with a clear and professional tone.* *What I needed to clarify or adjust: The introduction could be more specific about her personal experiences; the industry paragraph could include more concrete examples of AI tools currently used in accounting.*
