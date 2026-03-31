@@ -18,4 +18,4 @@ hw1-ruoxuan/
 3. `Add manually edited final version` — copied and edited assistant_draft.md into final_version.md
 4. `Update README with video link` — added video walkthrough link
 ## Walkthrough Video
-[]
+[https://www.youtube.com/watch?v=bD4i0j2wPjA]
